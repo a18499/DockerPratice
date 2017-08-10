@@ -1,4 +1,2 @@
 # DockerPratice
-This repo used to intergrate with jenkins
-This is Test
-This is Test 6
+This repo used to Demo a django website with DockerCompose
